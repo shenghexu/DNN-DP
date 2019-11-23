@@ -1,2 +1,3 @@
 # DNN-DP
-Code for Deep Neural Network Approximated Dynamic Programming
+Code for paper "Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization" (Accepted by AAAI-2020). 
+
