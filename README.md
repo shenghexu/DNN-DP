@@ -1,6 +1,14 @@
 Code for paper "Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization" (Accepted by AAAI-2020). 
 
 ## Running the code
+
+### Dependencies
+Python3.5
+numpy
+Pytorch1.1
+numba
+Scipy
+
 ### Testing
 Run 'FT_Eval.py' in the 'NDP_Policy_20' folder.
 ### Training
