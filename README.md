@@ -4,9 +4,13 @@ Code for paper "Deep Neural Network Approximated Dynamic Programming for Combina
 
 ### Dependencies
 Python3.5
+
 numpy
+
 Pytorch1.1
+
 numba
+
 Scipy
 
 ### Testing
