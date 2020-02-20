@@ -23,6 +23,7 @@ batch_per_epoch = int(1000)
 def Get_del_index_from_n(num):
     # Construct an index vector. In our formulation, city at index 0 is always the starting point. 
     # If city i is chosen as the next stop, at the next step swap city i to index 0 so it becomes the new starting point. 
+    # For other problems, modify this function to implement new state transitions. 
 
     index_out = np.zeros((num-2, num-1), dtype=int)
     for i in range(num-2):
