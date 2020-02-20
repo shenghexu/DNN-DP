@@ -3,15 +3,11 @@ Code for paper "Deep Neural Network Approximated Dynamic Programming for Combina
 ## Running the code
 
 ### Dependencies
-Python3.5
-
-numpy
-
-Pytorch1.1
-
-numba
-
-Scipy
+Python3.5  
+numpy  
+Pytorch1.1  
+numba  
+Scipy  
 
 ### Testing
 Run 'FT_Eval.py' in the 'NDP_Policy_20' folder.
