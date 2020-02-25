@@ -18,7 +18,7 @@ Run 'FT_Eval.py' in the 'NDP_Policy_20' folder.
 
 ### Cite our paper
 ```
-@inproceedings{AAAI19-RISTN,
+@inproceedings{shenghe2020deep,
 
 author = {Shenghe Xu, Shivendra S. Panwar, Murali Kodialam and T.V. Lakshman},
 
