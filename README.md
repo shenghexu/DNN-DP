@@ -18,16 +18,12 @@ Run 'FT_Eval.py' in the 'NDP_Policy_20' folder.
 
 ### Cite our paper
 ```
-@inproceedings{shenghe2020deep,
-
-author = {Shenghe Xu, Shivendra S. Panwar, Murali Kodialam and T.V. Lakshman},
-
-title = {Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization},
-
-booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-
-year = {2020},
-
+@inproceedings{xu2020deep,
+  title={Deep Neural Network Approximated Dynamic Programming for Combinatorial Optimization.},
+  author={Xu, Shenghe and Panwar, Shivendra S and Kodialam, Murali S and Lakshman, TV},
+  booktitle={AAAI},
+  pages={1684--1691},
+  year={2020}
 }
 ```
 
